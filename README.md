@@ -16,7 +16,7 @@ This implementation of SR treats expressions as binary expression trees. A rando
 
 ### Combination
 
-$$f_{\text{child}} = f_{\text{parent 1}}+f_{\text{parent 1}}$$
+$$f_{\text{child}} = f_{\text{parent 1}}+f_{\text{parent 2}}$$
 
 ### Mutation
 
